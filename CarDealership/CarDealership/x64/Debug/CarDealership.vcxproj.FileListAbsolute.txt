@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\Projects\CPP\Project1\CarDealership\x64\Debug\CarDealership.exe.config
+C:\Users\David\Desktop\Projects\CPP\Project1\CarDealership\CarDealership\x64\Debug\CarDealership.vcxproj.AssemblyReference.cache
+C:\Users\David\Desktop\Projects\CPP\Project1\CarDealership\CarDealership\x64\Debug\CarDealership.exe.config
+C:\Users\David\Desktop\Projects\CPP\Project1\CarDealership\CarDealership\x64\Debug\CarDealership.MyForm.resources
+C:\Users\David\Desktop\Projects\CPP\Project1\CarDealership\CarDealership\x64\Debug\CarDealership.vcxproj.GenerateResource.cache
+C:\Users\David\Desktop\Projects\CPP\Project1\CarDealership\CarDealership\x64\Debug\CarDealership.vcxproj.CopyComplete
